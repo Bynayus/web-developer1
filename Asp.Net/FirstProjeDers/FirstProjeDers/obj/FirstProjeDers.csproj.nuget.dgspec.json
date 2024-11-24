@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\acar3\\OneDrive\\Masaüstü\\ders\\Asp.Net\\FirstProjeDers\\FirstProjeDers\\FirstProjeDers.csproj": {}
+    "C:\\Users\\acar3\\OneDrive\\Masaüstü\\ders\\web-developer1\\Asp.Net\\FirstProjeDers\\FirstProjeDers\\FirstProjeDers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\acar3\\OneDrive\\Masaüstü\\ders\\Asp.Net\\FirstProjeDers\\FirstProjeDers\\FirstProjeDers.csproj": {
+    "C:\\Users\\acar3\\OneDrive\\Masaüstü\\ders\\web-developer1\\Asp.Net\\FirstProjeDers\\FirstProjeDers\\FirstProjeDers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\acar3\\OneDrive\\Masaüstü\\ders\\Asp.Net\\FirstProjeDers\\FirstProjeDers\\FirstProjeDers.csproj",
+        "projectUniqueName": "C:\\Users\\acar3\\OneDrive\\Masaüstü\\ders\\web-developer1\\Asp.Net\\FirstProjeDers\\FirstProjeDers\\FirstProjeDers.csproj",
         "projectName": "FirstProjeDers",
-        "projectPath": "C:\\Users\\acar3\\OneDrive\\Masaüstü\\ders\\Asp.Net\\FirstProjeDers\\FirstProjeDers\\FirstProjeDers.csproj",
+        "projectPath": "C:\\Users\\acar3\\OneDrive\\Masaüstü\\ders\\web-developer1\\Asp.Net\\FirstProjeDers\\FirstProjeDers\\FirstProjeDers.csproj",
         "packagesPath": "C:\\Users\\acar3\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\acar3\\OneDrive\\Masaüstü\\ders\\Asp.Net\\FirstProjeDers\\FirstProjeDers\\obj\\",
+        "outputPath": "C:\\Users\\acar3\\OneDrive\\Masaüstü\\ders\\web-developer1\\Asp.Net\\FirstProjeDers\\FirstProjeDers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

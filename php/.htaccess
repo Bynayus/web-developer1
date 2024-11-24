@@ -1,0 +1,4 @@
+RewiteEngine On
+RewiteRule %{REQUEST_FILENAME} !-f
+RewiteRule %{REQUEST_FILENAME} !-d
+RewiteCond .* index.php?route=$1 [QSA,L]

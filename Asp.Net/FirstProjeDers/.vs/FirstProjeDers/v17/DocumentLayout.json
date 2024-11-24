@@ -1,7 +1,16 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\acar3\\OneDrive\\Masa\u00FCst\u00FC\\ders\\Asp.Net\\FirstProjeDers\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\acar3\\OneDrive\\Masa\u00FCst\u00FC\\ders\\web-developer1\\Asp.Net\\FirstProjeDers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D39DC108-DB2C-4327-8CB3-686C36ED7B0C}|FirstProjeDers\\FirstProjeDers.csproj|c:\\users\\acar3\\onedrive\\masa\u00FCst\u00FC\\ders\\web-developer1\\asp.net\\firstprojeders\\firstprojeders\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D39DC108-DB2C-4327-8CB3-686C36ED7B0C}|FirstProjeDers\\FirstProjeDers.csproj|solutionrelative:firstprojeders\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D39DC108-DB2C-4327-8CB3-686C36ED7B0C}|FirstProjeDers\\FirstProjeDers.csproj|c:\\users\\acar3\\onedrive\\masa\u00FCst\u00FC\\ders\\web-developer1\\asp.net\\firstprojeders\\firstprojeders\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D39DC108-DB2C-4327-8CB3-686C36ED7B0C}|FirstProjeDers\\FirstProjeDers.csproj|solutionrelative:firstprojeders\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +18,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\acar3\\OneDrive\\Masa\u00FCst\u00FC\\ders\\web-developer1\\Asp.Net\\FirstProjeDers\\FirstProjeDers\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "FirstProjeDers\\Models\\UserModel.cs",
+              "ToolTip": "C:\\Users\\acar3\\OneDrive\\Masa\u00FCst\u00FC\\ders\\web-developer1\\Asp.Net\\FirstProjeDers\\FirstProjeDers\\Models\\UserModel.cs",
+              "RelativeToolTip": "FirstProjeDers\\Models\\UserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T20:12:53.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\acar3\\OneDrive\\Masa\u00FCst\u00FC\\ders\\web-developer1\\Asp.Net\\FirstProjeDers\\FirstProjeDers\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "FirstProjeDers\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\acar3\\OneDrive\\Masa\u00FCst\u00FC\\ders\\web-developer1\\Asp.Net\\FirstProjeDers\\FirstProjeDers\\Controllers\\UserController.cs",
+              "RelativeToolTip": "FirstProjeDers\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T11:07:04.641Z",
+              "EditorCaption": ""
             }
           ]
         }
